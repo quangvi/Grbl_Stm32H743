@@ -1,0 +1,6 @@
+21:01:24 **** Incremental Build of configuration Debug for project Grbl_H7_NucleoV1_2 ****
+make -j all 
+make: Nothing to be done for 'all'.
+
+21:01:24 Build Finished (took 485ms)
+

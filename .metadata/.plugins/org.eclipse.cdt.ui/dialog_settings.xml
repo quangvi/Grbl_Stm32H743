@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="USER_PULSE_NOT_EQUAL_DIR" key="org.eclipse.cdt.utils.ui.controls.FileListControl"/>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item value="180" key="size.height"/>
+		<item value="640" key="size.width"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="askReindex"/>
+		<item value="0" key="askReindex.detail"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>
